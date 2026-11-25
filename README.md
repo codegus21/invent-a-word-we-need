@@ -14,6 +14,12 @@ readguilt: a new word for the guilt of leaving a message on read for days while 
 
 Everyone with a phone knows this feeling, and English has no word for it. "Left on read" names what happened to the *sender*; nothing names what the *reader* feels — the low-grade guilt of seeing a message, meaning to answer, and watching the days pass while the perfect reply stays unwritten. *readguilt* is built from two words everyone already knows ("read", as in a read receipt, + "guilt"), so it is sayable on first sight, easy to spell, and its meaning is guessable before you even read the definition.
 
+## Pronunciation & usage
+
+Pronounced **RED-gilt** — "read" as in a read receipt, then "guilt".
+
+> "I have readguilt about Ana's message — it's been three days and I still haven't replied."
+
 ## Run it
 
 ```sh
